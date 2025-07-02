@@ -1,2 +1,2 @@
-# Project_Recipies
-Simple HTML webpage displaying some my fav. recipes
+# Odin_Recipies
+Simple HTML webpage displaying some of my Favorite recipes
